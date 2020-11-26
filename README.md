@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Alexandre01's github stats](https://github-readme-stats.vercel.app/api?username=Alexandre01Dev&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Alexandre01Dev/Alexandre01Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
