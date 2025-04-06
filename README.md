@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- START_WAKATIME_BLOCK -->
+
+
 ### Total times ![Total Time](https://img.shields.io/endpoint?url=https://wakapi.taillet.net/api/compat/shields/v1/Alexandre/interval:all_time&label=All%20time&color=blue)
-0 hrs 28 mins
-<!-- END_WAKATIME_BLOCK -->
 
