@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- START_WAKATIME_BLOCK -->### Total times ![Total Time](https://wakapi.taillet.net/api/badge/)
-0 hrs 28 mins<!-- END_WAKATIME_BLOCK -->
+<!-- START_WAKATIME_BLOCK -->
+### Total times ![Total Time](https://wakapi.taillet.net/api/badge/)
+0 hrs 28 mins
+<!-- END_WAKATIME_BLOCK -->
