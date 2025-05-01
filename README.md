@@ -34,8 +34,5 @@ Webstorm: 0.14h (0.60%%)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> YAML : 0.42h (8.55%)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> Markdown : 0.09h (1.88%)
 - <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="ObjectiveC" width="20" height="20"> ObjectiveC : 0.01h (0.17%)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> Java : 0.01h (0.16%)
-- <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="GitIgnore file" width="20" height="20"> GitIgnore file : 0.00h (0.09%)
-- <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TOML" width="20" height="20"> TOML : 0.00h (0.09%)
 
 <!-- END_WAKATIME_BLOCK -->
