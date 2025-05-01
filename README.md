@@ -14,28 +14,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- START_WAKATIME_BLOCK --># Wakatime Statistics
+<!-- START_WAKATIME_BLOCK -->
+# Wakatime Statistics
 
 ## Editors
 
 ```text
-Vscode: 16.92h (75.31%%)
-Rustrover: 3.74h (16.65%%)
-Androidstudio: 0.85h (3.80%%)
-Intellijidea: 0.81h (3.63%%)
+Vscode: 17.05h (75.44%%)
+Rustrover: 3.74h (16.56%%)
+Androidstudio: 0.85h (3.78%%)
+Intellijidea: 0.81h (3.61%%)
 Webstorm: 0.14h (0.61%%)
 ```
 
 ## Top_Languages (Top 5)
 
 ```text
-Rust: 3.41h (73.85%%)
-Dart: 0.71h (15.31%%)
-YAML: 0.38h (8.29%%)
-Markdown: 0.09h (2.01%%)
-ObjectiveC: 0.01h (0.19%%)
-Java: 0.01h (0.17%%)
-GitIgnore file: 0.00h (0.10%%)
+Rust: 3.54h (74.52%%)
+Dart: 0.71h (14.92%%)
+YAML: 0.38h (8.08%%)
+Markdown: 0.09h (1.96%%)
+ObjectiveC: 0.01h (0.18%%)
+Java: 0.01h (0.16%%)
+GitIgnore file: 0.00h (0.09%%)
 TOML: 0.00h (0.09%%)
 ```
 
