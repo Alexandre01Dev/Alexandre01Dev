@@ -27,7 +27,7 @@ Intellijidea: 0.81h (3.55%%)
 Webstorm: 0.14h (0.60%%)
 ```
 
-## My TOP **5** Languages This Week (Top 5)
+## My TOP **5** Languages This Week 
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> Rust : 3.84h (75.48%)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> Dart : 0.71h (13.93%)
@@ -35,7 +35,7 @@ Webstorm: 0.14h (0.60%%)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> Markdown : 0.09h (1.82%)
 - <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="ObjectiveC" width="20" height="20"> ObjectiveC : 0.01h (0.17%)
 
-## My TOP **5** Language ALL Time (Top 5)
+## My TOP **5** Language ALL Time 
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> Java : 264.33h (88.94%)
 - <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> TSX : 11.61h (3.91%)
