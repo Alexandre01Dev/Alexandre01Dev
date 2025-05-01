@@ -20,24 +20,24 @@ Here are some ideas to get you started:
 ## Editors
 
 ```text
-Vscode: 17.05h (75.44%%)
-Rustrover: 3.74h (16.56%%)
-Androidstudio: 0.85h (3.78%%)
-Intellijidea: 0.81h (3.61%%)
-Webstorm: 0.14h (0.61%%)
+Vscode: 17.05h (74.86%%)
+Rustrover: 3.92h (17.22%%)
+Androidstudio: 0.85h (3.75%%)
+Intellijidea: 0.81h (3.58%%)
+Webstorm: 0.14h (0.60%%)
 ```
 
 ## Top_Languages (Top 5)
 
 ```text
-Rust: 3.54h (74.52%%)
-Dart: 0.71h (14.92%%)
-YAML: 0.38h (8.08%%)
-Markdown: 0.09h (1.96%%)
-ObjectiveC: 0.01h (0.18%%)
-Java: 0.01h (0.16%%)
-GitIgnore file: 0.00h (0.09%%)
-TOML: 0.00h (0.09%%)
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svgRust : 3.68h (74.67%%)
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svgDart : 0.71h (14.38%%)
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svgYAML : 0.42h (8.55%%)
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svgMarkdown : 0.09h (1.88%%)
+https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.pngObjectiveC : 0.01h (0.17%%)
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svgJava : 0.01h (0.16%%)
+https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.pngGitIgnore file : 0.00h (0.09%%)
+https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.pngTOML : 0.00h (0.09%%)
 ```
 
 <!-- END_WAKATIME_BLOCK -->
