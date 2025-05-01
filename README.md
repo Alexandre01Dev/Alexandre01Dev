@@ -40,5 +40,3 @@ TOML: 0.00h (0.09%%)
 ```
 
 <!-- END_WAKATIME_BLOCK -->
-
-Test Ajout par Alexandre le Majestueux
