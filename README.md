@@ -53,8 +53,7 @@ Here are some ideas to get you started:
 Test Ajout par Alexandre le Majestueux
 Test Ajout par Alexandre le Majestueux
 Test Ajout par Alexandre le Majestueux
-<!-- START_WAKATIME_BLOCK -->
-# Wakatime Statistics
+<!-- START_WAKATIME_BLOCK --># Wakatime Statistics
 
 ## Editors
 
@@ -79,5 +78,6 @@ GitIgnore file: 0.00h (0.10%%)
 TOML: 0.00h (0.09%%)
 ```
 
-
 <!-- END_WAKATIME_BLOCK -->
+
+Test Ajout par Alexandre le Majestueux
