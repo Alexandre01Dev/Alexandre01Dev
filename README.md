@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## What I'm doing now ? 
 
-- I'm currently working on wakatime-readme-connect <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> : 485053.86h
+- I'm currently working on wakatime-readme-connect <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> : 🇫🇷h
 
 ## Editors
 
