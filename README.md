@@ -17,17 +17,15 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-> I'm sleeping 🛌 or I'm busy with other things than computer.
 ## Editors
 
 ```text
-Intellij idea: 274.31h (91.23%%)
-Vscode: 17.08h (5.68%%)
-Rustrover: 4.54h (1.51%%)
-Neovim: 2.94h (0.98%%)
-Androidstudio: 0.85h (0.28%%)
-Intellijidea: 0.81h (0.27%%)
-Webstorm: 0.14h (0.05%%)
+Vscode: 17.08h (64.76%%)
+Rustrover: 4.54h (17.24%%)
+Neovim: 2.94h (11.15%%)
+Androidstudio: 0.85h (3.24%%)
+Intellijidea: 0.81h (3.09%%)
+Webstorm: 0.14h (0.52%%)
 ```
 
 ## My TOP **5** Languages This Week 
