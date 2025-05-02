@@ -17,14 +17,7 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-## What I'm doing now ? 
-
-#### I'm currently working on wakatime-readme-connect <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20">: <br/>
-Last update at:
-- 🇫🇷 (UTC+2) - 16:29
-- 🇺🇸 (UTC-4) - 10:29
-- 🇨🇳 (UTC+8) - 22:29
-
+> I'm sleeping 🛌 or I'm busy with other things than computer.
 ## Editors
 
 ```text
