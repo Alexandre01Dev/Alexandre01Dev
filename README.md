@@ -17,15 +17,20 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
+## What I'm doing now 
+
+- I'm currently working on wakatime-readme-connect <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> : 485053.67h
+
 ## Editors
 
 ```text
-Vscode: 17.08h (66.85%%)
-Rustrover: 4.42h (17.32%%)
-Neovim: 2.24h (8.77%%)
-Androidstudio: 0.85h (3.34%%)
-Intellijidea: 0.81h (3.19%%)
-Webstorm: 0.14h (0.54%%)
+Intellij idea: 274.31h (91.48%%)
+Vscode: 17.08h (5.70%%)
+Rustrover: 4.42h (1.48%%)
+Neovim: 2.24h (0.75%%)
+Androidstudio: 0.85h (0.28%%)
+Intellijidea: 0.81h (0.27%%)
+Webstorm: 0.14h (0.05%%)
 ```
 
 ## My TOP **5** Languages This Week 
