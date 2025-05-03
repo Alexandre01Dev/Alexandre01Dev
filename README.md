@@ -17,13 +17,18 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-> I'm sleeping 🛌 or I'm busy with other things than coding. 
+## What I'm doing now ? 
 
+#### I'm currently working on cae-group-21 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20">: <br/>
+Last update at:
+- 🇫🇷 (UTC+2) - 23:45
+- 🇺🇸 (UTC-4) - 17:45
+- 🇨🇳 (UTC+8) - 05:45
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (91.22%%)
+Intellij idea: 274.31h (91.21%%)
 Vscode: 17.08h (5.68%%)
 Rustrover: 4.62h (1.53%%)
 Neovim: 2.92h (0.97%%)
@@ -34,8 +39,8 @@ Webstorm: 0.14h (0.05%%)
 
 ## My TOP **5** Languages This Week 
 
-- Rust <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> : 7.31h (85.32%)
-- Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> : 0.71h (8.27%)
+- Rust <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> : 7.31h (85.33%)
+- Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> : 0.71h (8.26%)
 - YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.43h (5.00%)
 - Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.09h (1.09%)
 - ObjectiveC <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="ObjectiveC" width="20" height="20"> : 0.01h (0.10%)
