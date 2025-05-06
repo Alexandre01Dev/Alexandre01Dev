@@ -34,10 +34,10 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 10.65h (54.71%)
-- Rust <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> : 5.27h (27.09%)
-- Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="20" height="20"> : 1.44h (7.41%)
-- Makefile <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Makefile" width="20" height="20"> : 0.43h (2.20%)
+- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 10.65h (54.91%)
+- Rust <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> : 5.20h (26.83%)
+- Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="20" height="20"> : 1.44h (7.44%)
+- Makefile <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Makefile" width="20" height="20"> : 0.43h (2.21%)
 - Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> : 0.40h (2.07%)
 
 ## My TOP **5** Language ALL Time 
