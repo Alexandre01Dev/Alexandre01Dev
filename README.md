@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-## What I'm doing now ? 
+> I'm sleeping 🛌 or I'm busy with other things than coding. 
 
-#### I'm currently working on nvim <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="20" height="20">: <br/>
-Last update at:
-- 🇫🇷 (UTC+2) - 17:26
-- 🇺🇸 (UTC-4) - 11:26
-- 🇨🇳 (UTC+8) - 23:26
 
 ## Editors
 
