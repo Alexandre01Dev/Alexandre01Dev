@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 #### I'm currently working on PasCman42 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 17:41
-- 🇺🇸 (UTC-4) - 11:41
-- 🇨🇳 (UTC+8) - 23:41
+- 🇫🇷 (UTC+2) - 17:48
+- 🇺🇸 (UTC-4) - 11:48
+- 🇨🇳 (UTC+8) - 23:48
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (83.76%%)
-Neovim: 28.39h (8.67%%)
+Intellij idea: 274.31h (83.73%%)
+Neovim: 28.51h (8.70%%)
 Vscode: 17.96h (5.48%%)
 Rustrover: 4.62h (1.41%%)
 Androidstudio: 1.28h (0.39%%)
@@ -39,18 +39,18 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 21.74h (81.16%)
-- Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="20" height="20"> : 1.44h (5.38%)
-- Lua <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="20" height="20"> : 0.64h (2.37%)
-- Makefile <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Makefile" width="20" height="20"> : 0.56h (2.09%)
-- Rust <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> : 0.56h (2.09%)
+- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 21.86h (81.25%)
+- Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="20" height="20"> : 1.44h (5.36%)
+- Lua <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="20" height="20"> : 0.64h (2.36%)
+- Makefile <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Makefile" width="20" height="20"> : 0.56h (2.08%)
+- Rust <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> : 0.56h (2.08%)
 
 ## My TOP **5** Language ALL Time 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 264.55h (80.79%)
-- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 21.74h (6.64%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 264.55h (80.76%)
+- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 21.86h (6.67%)
 - TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 11.68h (3.57%)
-- XML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="20" height="20"> : 9.68h (2.96%)
+- XML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="20" height="20"> : 9.68h (2.95%)
 - Rust <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> : 7.87h (2.40%)
 
 <!-- END_WAKATIME_BLOCK -->
