@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## What I'm doing now ? 
 
-#### I'm currently working on 2BIN2-CAE <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20">: <br/>
+#### I'm currently working on 2BIN2-CAE <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 17:08
-- 🇺🇸 (UTC-4) - 11:08
-- 🇨🇳 (UTC+8) - 23:08
+- 🇫🇷 (UTC+2) - 17:21
+- 🇺🇸 (UTC-4) - 11:21
+- 🇨🇳 (UTC+8) - 23:21
 
 ## Editors
 
