@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-## What I'm doing now ? 
+> I'm sleeping 🛌 or I'm busy with other things than coding. 
 
-#### I'm currently working on 2BIN2-CAE <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20">: <br/>
-Last update at:
-- 🇫🇷 (UTC+2) - 19:16
-- 🇺🇸 (UTC-4) - 13:16
-- 🇨🇳 (UTC+8) - 01:16
 
 ## Editors
 
