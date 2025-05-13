@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-## What I'm doing now ? 
+> I'm sleeping 🛌 or I'm busy with other things than coding. 
 
-#### I'm currently working on DreamNetwork-Neo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="JAVA" width="20" height="20">: <br/>
-Last update at:
-- 🇫🇷 (UTC+2) - 23:53
-- 🇺🇸 (UTC-4) - 17:53
-- 🇨🇳 (UTC+8) - 05:53
 
 ## Editors
 
