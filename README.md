@@ -32,7 +32,7 @@ Intellij idea: 274.31h (82.02%%)
 Neovim: 30.30h (9.06%%)
 Vscode: 21.25h (6.35%%)
 Rustrover: 4.62h (1.38%%)
-Intellijidea: 2.56h (0.77%%)
+Intellijidea: 2.56h (0.76%%)
 Androidstudio: 1.28h (0.38%%)
 Webstorm: 0.14h (0.04%%)
 ```
