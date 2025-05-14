@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-> I'm sleeping 🛌 or I'm busy with other things than coding. 
+## What I'm doing now ? 
 
+#### I'm currently working on DreamNetwork-Neo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="JAVA" width="20" height="20">: <br/>
+Last update at:
+- 🇫🇷 (UTC+2) - 12:37
+- 🇺🇸 (UTC-4) - 06:37
+- 🇨🇳 (UTC+8) - 18:37
 
 ## Editors
 
@@ -27,15 +32,15 @@ Intellij idea: 274.31h (81.80%%)
 Neovim: 30.87h (9.20%%)
 Vscode: 21.07h (6.28%%)
 Rustrover: 4.62h (1.38%%)
-Intellijidea: 3.06h (0.91%%)
+Intellijidea: 3.07h (0.91%%)
 Androidstudio: 1.28h (0.38%%)
 Webstorm: 0.14h (0.04%%)
 ```
 
 ## My TOP **5** Languages This Week 
 
-- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 12.72h (63.27%)
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 2.59h (12.88%)
+- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 12.72h (63.26%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 2.59h (12.90%)
 - TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 2.19h (10.87%)
 - Lua <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="20" height="20"> : 0.67h (3.34%)
 - Rust <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"> : 0.37h (1.83%)
