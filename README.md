@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-## What I'm doing now ? 
+> I'm sleeping 🛌 or I'm busy with other things than coding. 
 
-#### I'm currently working on 2BIN2-CAE <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20">: <br/>
-Last update at:
-- 🇫🇷 (UTC+2) - 09:35
-- 🇺🇸 (UTC-4) - 03:35
-- 🇨🇳 (UTC+8) - 15:35
 
 ## Editors
 
