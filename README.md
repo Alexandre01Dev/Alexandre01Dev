@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-## What I'm doing now ? 
+> I'm sleeping 🛌 or I'm busy with other things than coding. 
 
-#### I'm currently working on 2binFlutter <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20">: <br/>
-Last update at:
-- 🇫🇷 (UTC+2) - 18:50
-- 🇺🇸 (UTC-4) - 12:50
-- 🇨🇳 (UTC+8) - 00:50
 
 ## Editors
 
