@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-## What I'm doing now ? 
+> I'm sleeping 🛌 or I'm busy with other things than coding. 
 
-#### I'm currently working on  <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Text" width="20" height="20">: <br/>
-Last update at:
-- 🇫🇷 (UTC+2) - 13:46
-- 🇺🇸 (UTC-4) - 07:46
-- 🇨🇳 (UTC+8) - 19:46
 
 ## Editors
 
