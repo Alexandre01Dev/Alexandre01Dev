@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 #### I'm currently working on 2binFlutter <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 11:16
-- 🇺🇸 (UTC-4) - 05:16
-- 🇨🇳 (UTC+8) - 17:16
+- 🇫🇷 (UTC+2) - 11:20
+- 🇺🇸 (UTC-4) - 05:20
+- 🇨🇳 (UTC+8) - 17:20
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (79.04%%)
-Neovim: 33.95h (9.78%%)
+Intellij idea: 274.31h (79.02%%)
+Neovim: 34.00h (9.79%%)
 Vscode: 21.28h (6.13%%)
-Androidstudio: 9.71h (2.80%%)
+Androidstudio: 9.73h (2.80%%)
 Rustrover: 4.62h (1.33%%)
 Intellijidea: 3.05h (0.88%%)
 Webstorm: 0.14h (0.04%%)
@@ -39,18 +39,18 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> : 6.13h (66.43%)
-- conf <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="conf" width="20" height="20"> : 1.03h (11.12%)
-- TOML <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TOML" width="20" height="20"> : 0.76h (8.23%)
-- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.61h (6.56%)
-- Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="20" height="20"> : 0.26h (2.87%)
+- Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> : 6.20h (66.70%)
+- conf <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="conf" width="20" height="20"> : 1.03h (11.03%)
+- TOML <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TOML" width="20" height="20"> : 0.76h (8.17%)
+- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.61h (6.51%)
+- Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="20" height="20"> : 0.26h (2.84%)
 
 ## My TOP **5** Language ALL Time 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 267.23h (77.01%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 267.23h (77.00%)
 - C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 23.61h (6.80%)
 - TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 13.90h (4.01%)
 - XML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="20" height="20"> : 9.79h (2.82%)
-- Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> : 9.11h (2.63%)
+- Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> : 9.18h (2.65%)
 
 <!-- END_WAKATIME_BLOCK -->
