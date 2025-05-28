@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-> I'm sleeping 🛌 or I'm busy with other things than coding. 
+## What I'm doing now ? 
 
+#### I'm currently working on mobile-solutions <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20">: <br/>
+Last update at:
+- 🇫🇷 (UTC+2) - 09:45
+- 🇺🇸 (UTC-4) - 03:45
+- 🇨🇳 (UTC+8) - 15:45
 
 ## Editors
 
