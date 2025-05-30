@@ -17,28 +17,33 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-> I'm sleeping 🛌 or I'm busy with other things than coding. 
+## What I'm doing now ? 
 
+#### I'm currently working on  <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="C++" width="20" height="20">: <br/>
+Last update at:
+- 🇫🇷 (UTC+2) - 20:58
+- 🇺🇸 (UTC-4) - 14:58
+- 🇨🇳 (UTC+8) - 02:58
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (78.67%%)
-Neovim: 34.96h (10.03%%)
+Intellij idea: 274.31h (78.66%%)
+Neovim: 35.00h (10.04%%)
 Vscode: 21.34h (6.12%%)
 Androidstudio: 10.27h (2.95%%)
 Rustrover: 4.62h (1.32%%)
-Intellijidea: 3.05h (0.88%%)
+Intellijidea: 3.05h (0.87%%)
 Webstorm: 0.14h (0.04%%)
 ```
 
 ## My TOP **5** Languages This Week 
 
-- Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> : 5.89h (75.91%)
-- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.50h (6.41%)
-- C++ <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="C++" width="20" height="20"> : 0.46h (5.97%)
-- CMake <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="CMake" width="20" height="20"> : 0.41h (5.31%)
-- TOML <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TOML" width="20" height="20"> : 0.29h (3.72%)
+- Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> : 5.89h (75.61%)
+- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.50h (6.38%)
+- C++ <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="C++" width="20" height="20"> : 0.49h (6.35%)
+- CMake <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="CMake" width="20" height="20"> : 0.41h (5.29%)
+- TOML <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TOML" width="20" height="20"> : 0.29h (3.70%)
 
 ## My TOP **5** Language ALL Time 
 
