@@ -43,7 +43,7 @@ Webstorm: 0.14h (0.04%%)
 - CLASS <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="CLASS" width="20" height="20"> : 0.01h (0.30%)
 - GitIgnore file <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="GitIgnore file" width="20" height="20"> : 0.00h (0.06%)
 - Shell Script <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Shell Script" width="20" height="20"> : 0.00h (0.02%)
-- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.00h (0.01%)
+- PLAIN_TEXT <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="PLAIN_TEXT" width="20" height="20"> : 0.00h (0.01%)
 
 ## My TOP **5** Language ALL Time 
 
