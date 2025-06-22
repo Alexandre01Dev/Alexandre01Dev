@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 
 ## What I'm doing now ? 
 
-#### I'm currently working on DreamNetwork-Neo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="JAVA" width="20" height="20">: <br/>
+#### I'm currently working on DreamNetwork-Neo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 13:36
-- 🇺🇸 (UTC-4) - 07:36
-- 🇨🇳 (UTC+8) - 19:36
+- 🇫🇷 (UTC+2) - 13:42
+- 🇺🇸 (UTC-4) - 07:42
+- 🇨🇳 (UTC+8) - 19:42
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (75.25%%)
-Neovim: 35.34h (9.70%%)
-Vscode: 23.11h (6.34%%)
-Intellijidea: 16.75h (4.59%%)
+Intellij idea: 274.31h (75.23%%)
+Neovim: 35.34h (9.69%%)
+Vscode: 23.14h (6.35%%)
+Intellijidea: 16.82h (4.61%%)
 Androidstudio: 10.27h (2.82%%)
 Rustrover: 4.62h (1.27%%)
 Webstorm: 0.14h (0.04%%)
@@ -39,15 +39,15 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 8.75h (93.92%)
-- Batchfile <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Batchfile" width="20" height="20"> : 0.28h (3.03%)
-- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.14h (1.45%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.13h (1.39%)
-- CLASS <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="CLASS" width="20" height="20"> : 0.01h (0.16%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 8.82h (93.66%)
+- Batchfile <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Batchfile" width="20" height="20"> : 0.28h (3.00%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.16h (1.70%)
+- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.14h (1.44%)
+- CLASS <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="CLASS" width="20" height="20"> : 0.01h (0.15%)
 
 ## My TOP **5** Language ALL Time 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 280.46h (76.95%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 280.52h (76.95%)
 - C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 23.63h (6.48%)
 - TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 13.90h (3.81%)
 - XML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="20" height="20"> : 9.79h (2.69%)
