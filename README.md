@@ -39,11 +39,11 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 6.94h (80.60%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.63h (7.33%)
-- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.52h (5.98%)
-- Batchfile <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Batchfile" width="20" height="20"> : 0.28h (3.28%)
-- TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"> : 0.19h (2.23%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 6.86h (80.43%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.63h (7.40%)
+- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.51h (6.04%)
+- Batchfile <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Batchfile" width="20" height="20"> : 0.28h (3.31%)
+- TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"> : 0.19h (2.25%)
 
 ## My TOP **5** Language ALL Time 
 
