@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 #### I'm currently working on DreamNetwork-Neo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 19:31
-- 🇺🇸 (UTC-4) - 13:31
-- 🇨🇳 (UTC+8) - 01:31
+- 🇫🇷 (UTC+2) - 19:37
+- 🇺🇸 (UTC-4) - 13:37
+- 🇨🇳 (UTC+8) - 01:37
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (74.71%%)
-Neovim: 35.34h (9.63%%)
+Intellij idea: 274.31h (74.69%%)
+Neovim: 35.34h (9.62%%)
 Vscode: 23.75h (6.47%%)
-Intellijidea: 18.74h (5.10%%)
+Intellijidea: 18.85h (5.13%%)
 Androidstudio: 10.27h (2.80%%)
 Rustrover: 4.62h (1.26%%)
 Webstorm: 0.14h (0.04%%)
@@ -39,16 +39,16 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 6.91h (80.54%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.63h (7.36%)
-- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.52h (6.00%)
-- Batchfile <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Batchfile" width="20" height="20"> : 0.28h (3.29%)
-- TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"> : 0.19h (2.24%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 6.94h (80.60%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.63h (7.33%)
+- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.52h (5.98%)
+- Batchfile <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Batchfile" width="20" height="20"> : 0.28h (3.28%)
+- TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"> : 0.19h (2.23%)
 
 ## My TOP **5** Language ALL Time 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 281.96h (76.81%)
-- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 23.63h (6.44%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 282.07h (76.82%)
+- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 23.63h (6.43%)
 - TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 13.90h (3.79%)
 - XML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="20" height="20"> : 9.80h (2.67%)
 - Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> : 9.72h (2.65%)
