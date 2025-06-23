@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-> I'm sleeping 🛌 or I'm busy with other things than coding. 
+## What I'm doing now ? 
 
+#### I'm currently working on 2bin-q2-sd <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="JAVA" width="20" height="20">: <br/>
+Last update at:
+- 🇫🇷 (UTC+2) - 21:04
+- 🇺🇸 (UTC-4) - 15:04
+- 🇨🇳 (UTC+8) - 03:04
 
 ## Editors
 
@@ -34,15 +39,15 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 6.84h (80.39%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.63h (7.42%)
-- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.51h (6.05%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 6.85h (80.40%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.63h (7.41%)
+- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.51h (6.04%)
 - Batchfile <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Batchfile" width="20" height="20"> : 0.28h (3.31%)
 - TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"> : 0.19h (2.26%)
 
 ## My TOP **5** Language ALL Time 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 282.07h (76.82%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 282.08h (76.82%)
 - C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 23.63h (6.43%)
 - TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 13.90h (3.79%)
 - XML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="20" height="20"> : 9.80h (2.67%)
