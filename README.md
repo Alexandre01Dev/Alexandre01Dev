@@ -34,11 +34,11 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.55h (85.18%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.09h (13.43%)
-- Gradle <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Gradle" width="20" height="20"> : 0.01h (0.91%)
-- Groovy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="Groovy" width="20" height="20"> : 0.00h (0.39%)
-- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.00h (0.09%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.48h (83.37%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.09h (15.08%)
+- Gradle <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Gradle" width="20" height="20"> : 0.01h (1.02%)
+- Groovy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="Groovy" width="20" height="20"> : 0.00h (0.44%)
+- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.00h (0.10%)
 
 ## My TOP **5** Language ALL Time 
 
