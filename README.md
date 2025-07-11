@@ -17,14 +17,19 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-> I'm sleeping 🛌 or I'm busy with other things than coding. 
+## What I'm doing now ? 
 
+#### I'm currently working on DreamNetworkNeo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20">: <br/>
+Last update at:
+- 🇫🇷 (UTC+2) - 16:43
+- 🇺🇸 (UTC-4) - 10:43
+- 🇨🇳 (UTC+8) - 22:43
 
 ## Editors
 
 ```text
 Intellij idea: 274.31h (74.44%%)
-Neovim: 35.34h (9.59%%)
+Neovim: 35.35h (9.59%%)
 Vscode: 23.88h (6.48%%)
 Intellijidea: 19.93h (5.41%%)
 Androidstudio: 10.27h (2.79%%)
@@ -34,6 +39,7 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
+- Groovy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="Groovy" width="20" height="20"> : 0.00h (100.00%)
 
 ## My TOP **5** Language ALL Time 
 
