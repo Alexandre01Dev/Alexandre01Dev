@@ -17,14 +17,19 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-> I'm sleeping 🛌 or I'm busy with other things than coding. 
+## What I'm doing now ? 
 
+#### I'm currently working on simple-bar <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20">: <br/>
+Last update at:
+- 🇫🇷 (UTC+2) - 22:14
+- 🇺🇸 (UTC-4) - 16:14
+- 🇨🇳 (UTC+8) - 04:14
 
 ## Editors
 
 ```text
 Intellij idea: 274.31h (74.37%%)
-Neovim: 35.70h (9.68%%)
+Neovim: 35.72h (9.68%%)
 Vscode: 23.88h (6.47%%)
 Intellijidea: 19.93h (5.40%%)
 Androidstudio: 10.27h (2.78%%)
@@ -34,9 +39,10 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.17h (48.27%)
-- Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="20" height="20"> : 0.13h (37.64%)
-- Groovy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="Groovy" width="20" height="20"> : 0.05h (14.09%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.17h (45.24%)
+- Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="20" height="20"> : 0.16h (41.33%)
+- Groovy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="Groovy" width="20" height="20"> : 0.05h (13.21%)
+- JSON <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON" width="20" height="20"> : 0.00h (0.22%)
 
 ## My TOP **5** Language ALL Time 
 
