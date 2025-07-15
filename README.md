@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-> I'm sleeping 🛌 or I'm busy with other things than coding. 
+## What I'm doing now ? 
 
+#### I'm currently working on cae-group-21 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20">: <br/>
+Last update at:
+- 🇫🇷 (UTC+2) - 16:57
+- 🇺🇸 (UTC-4) - 10:57
+- 🇨🇳 (UTC+8) - 22:57
 
 ## Editors
 
