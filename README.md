@@ -39,11 +39,11 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.45h (15.79%)
-- Groovy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="Groovy" width="20" height="20"> : 0.41h (14.54%)
-- JSON <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON" width="20" height="20"> : 0.40h (14.06%)
-- Lua <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="20" height="20"> : 0.38h (13.23%)
-- Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="20" height="20"> : 0.33h (11.51%)
+- JSON <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON" width="20" height="20"> : 0.42h (15.47%)
+- Groovy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="Groovy" width="20" height="20"> : 0.41h (15.31%)
+- Lua <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="20" height="20"> : 0.38h (14.02%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.35h (13.10%)
+- TOML <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TOML" width="20" height="20"> : 0.31h (11.42%)
 
 ## My TOP **5** Language ALL Time 
 
