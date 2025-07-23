@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 
 #### I'm currently working on DreamNetwork-DocumentationV3 <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 11:42
-- 🇺🇸 (UTC-4) - 05:42
-- 🇨🇳 (UTC+8) - 17:42
+- 🇫🇷 (UTC+2) - 11:44
+- 🇺🇸 (UTC-4) - 05:44
+- 🇨🇳 (UTC+8) - 17:44
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (73.85%%)
+Intellij idea: 274.31h (73.84%%)
 Neovim: 37.81h (10.18%%)
-Vscode: 24.37h (6.56%%)
+Vscode: 24.41h (6.57%%)
 Intellijidea: 19.93h (5.36%%)
 Androidstudio: 10.27h (2.77%%)
 Rustrover: 4.62h (1.24%%)
@@ -39,14 +39,14 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.19h (61.22%)
-- JSON <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON" width="20" height="20"> : 0.07h (23.80%)
-- unknown <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="unknown" width="20" height="20"> : 0.05h (14.90%)
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> : 0.00h (0.09%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.19h (53.11%)
+- unknown <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="unknown" width="20" height="20"> : 0.09h (26.00%)
+- JSON <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON" width="20" height="20"> : 0.07h (20.80%)
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> : 0.00h (0.08%)
 
 ## My TOP **5** Language ALL Time 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 283.52h (76.35%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 283.52h (76.34%)
 - C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 23.63h (6.36%)
 - TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 13.92h (3.75%)
 - XML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="20" height="20"> : 9.80h (2.64%)
