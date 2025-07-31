@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 #### I'm currently working on DreamNetworkNeo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="JAVA" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 14:48
-- 🇺🇸 (UTC-4) - 08:48
-- 🇨🇳 (UTC+8) - 20:48
+- 🇫🇷 (UTC+2) - 14:55
+- 🇺🇸 (UTC-4) - 08:55
+- 🇨🇳 (UTC+8) - 20:55
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (73.45%%)
+Intellij idea: 274.31h (73.43%%)
 Neovim: 37.91h (10.15%%)
 Vscode: 24.58h (6.58%%)
-Intellijidea: 21.66h (5.80%%)
+Intellijidea: 21.76h (5.83%%)
 Androidstudio: 10.27h (2.75%%)
 Rustrover: 4.62h (1.24%%)
 Webstorm: 0.14h (0.04%%)
@@ -39,15 +39,15 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.44h (72.32%)
-- TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 0.23h (11.75%)
-- Text <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Text" width="20" height="20"> : 0.20h (9.92%)
-- Groovy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="Groovy" width="20" height="20"> : 0.07h (3.42%)
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> : 0.04h (1.78%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.55h (73.72%)
+- TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 0.23h (11.16%)
+- Text <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Text" width="20" height="20"> : 0.20h (9.42%)
+- Groovy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="Groovy" width="20" height="20"> : 0.07h (3.25%)
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> : 0.04h (1.69%)
 
 ## My TOP **5** Language ALL Time 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 284.97h (76.32%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 285.07h (76.32%)
 - C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 23.63h (6.33%)
 - TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 14.15h (3.79%)
 - XML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="20" height="20"> : 9.80h (2.62%)
