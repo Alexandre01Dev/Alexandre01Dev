@@ -34,11 +34,11 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 2.50h (46.78%)
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.74h (32.54%)
-- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.47h (8.88%)
-- TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 0.28h (5.22%)
-- Text <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Text" width="20" height="20"> : 0.20h (3.71%)
+- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 2.50h (49.28%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.74h (34.28%)
+- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.47h (9.36%)
+- Text <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Text" width="20" height="20"> : 0.20h (3.90%)
+- Groovy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" alt="Groovy" width="20" height="20"> : 0.07h (1.35%)
 
 ## My TOP **5** Language ALL Time 
 
