@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 
 ## What I'm doing now ? 
 
-#### I'm currently working on boisrichard <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20">: <br/>
+#### I'm currently working on boisrichard <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 12:31
-- 🇺🇸 (UTC-4) - 06:31
-- 🇨🇳 (UTC+8) - 18:31
+- 🇫🇷 (UTC+2) - 12:34
+- 🇺🇸 (UTC-4) - 06:34
+- 🇨🇳 (UTC+8) - 18:34
 
 ## Editors
 
 ```text
 Intellij idea: 274.31h (72.25%%)
 Neovim: 37.91h (9.98%%)
-Vscode: 30.42h (8.01%%)
+Vscode: 30.45h (8.02%%)
 Intellijidea: 21.99h (5.79%%)
 Androidstudio: 10.27h (2.71%%)
 Rustrover: 4.62h (1.22%%)
@@ -39,11 +39,11 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 4.46h (56.49%)
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.74h (22.02%)
-- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.47h (6.01%)
-- TOML <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TOML" width="20" height="20"> : 0.22h (2.74%)
-- Text <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Text" width="20" height="20"> : 0.20h (2.51%)
+- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 4.47h (56.38%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.74h (21.92%)
+- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.47h (5.98%)
+- TOML <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TOML" width="20" height="20"> : 0.22h (2.72%)
+- Text <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="Text" width="20" height="20"> : 0.20h (2.50%)
 
 ## My TOP **5** Language ALL Time 
 
