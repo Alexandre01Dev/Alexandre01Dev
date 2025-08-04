@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 
 #### I'm currently working on boisrichard <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 22:47
-- 🇺🇸 (UTC-4) - 16:47
-- 🇨🇳 (UTC+8) - 04:47
+- 🇫🇷 (UTC+2) - 22:48
+- 🇺🇸 (UTC-4) - 16:48
+- 🇨🇳 (UTC+8) - 04:48
 
 ## Editors
 
 ```text
 Intellij idea: 274.31h (70.95%%)
 Neovim: 37.91h (9.80%%)
-Vscode: 37.36h (9.66%%)
+Vscode: 37.39h (9.67%%)
 Intellijidea: 22.00h (5.69%%)
 Androidstudio: 10.27h (2.66%%)
 Rustrover: 4.62h (1.19%%)
@@ -39,11 +39,11 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 5.86h (41.65%)
-- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 2.85h (20.25%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 1.86h (13.25%)
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.25h (8.91%)
-- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.94h (6.67%)
+- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 5.86h (41.56%)
+- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 2.88h (20.41%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 1.86h (13.22%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.25h (8.89%)
+- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.94h (6.65%)
 
 ## My TOP **5** Language ALL Time 
 
