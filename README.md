@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 
 ## What I'm doing now ? 
 
-#### I'm currently working on boisrichard <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20">: <br/>
+#### I'm currently working on boisrichard <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 20:17
-- 🇺🇸 (UTC-4) - 14:17
-- 🇨🇳 (UTC+8) - 02:17
+- 🇫🇷 (UTC+2) - 20:18
+- 🇺🇸 (UTC-4) - 14:18
+- 🇨🇳 (UTC+8) - 02:18
 
 ## Editors
 
 ```text
 Intellij idea: 274.31h (71.20%%)
 Neovim: 37.91h (9.84%%)
-Vscode: 36.02h (9.35%%)
+Vscode: 36.03h (9.35%%)
 Intellijidea: 22.00h (5.71%%)
 Androidstudio: 10.27h (2.67%%)
 Rustrover: 4.62h (1.20%%)
@@ -39,11 +39,11 @@ Webstorm: 0.14h (0.04%%)
 
 ## My TOP **5** Languages This Week 
 
-- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 5.74h (45.09%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 1.86h (14.65%)
-- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 1.66h (13.04%)
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.25h (9.85%)
-- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.91h (7.11%)
+- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 5.74h (45.03%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 1.86h (14.63%)
+- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 1.66h (13.03%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.25h (9.84%)
+- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.92h (7.23%)
 
 ## My TOP **5** Language ALL Time 
 
