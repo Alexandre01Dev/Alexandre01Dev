@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-> I'm sleeping 🛌 or I'm busy with other things than coding. 
+## What I'm doing now ? 
 
+#### I'm currently working on DreamNetwork-DocumentationV2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20">: <br/>
+Last update at:
+- 🇫🇷 (UTC+2) - 19:10
+- 🇺🇸 (UTC-4) - 13:10
+- 🇨🇳 (UTC+8) - 01:10
 
 ## Editors
 
