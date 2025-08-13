@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ## Editors
 
 ```text
-Intellij idea: 274.31h (68.56%%)
-Vscode: 50.84h (12.71%%)
+Intellij idea: 274.31h (68.55%%)
+Vscode: 50.92h (12.73%%)
 Neovim: 37.91h (9.47%%)
 Intellijidea: 22.00h (5.50%%)
 Androidstudio: 10.27h (2.57%%)
@@ -34,18 +34,18 @@ Webstorm: 0.14h (0.03%%)
 
 ## My TOP **5** Languages This Week 
 
-- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 1.03h (60.43%)
-- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.25h (14.54%)
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> : 0.22h (12.69%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.14h (8.22%)
-- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.06h (3.35%)
+- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 1.04h (58.40%)
+- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.25h (13.89%)
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> : 0.22h (12.12%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.14h (7.85%)
+- CSS <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="CSS" width="20" height="20"> : 0.07h (3.81%)
 
 ## My TOP **5** Language ALL Time 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 285.27h (71.32%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 285.27h (71.30%)
 - C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 23.63h (5.91%)
-- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 15.81h (3.95%)
-- TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 14.34h (3.59%)
+- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 15.82h (3.96%)
+- TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 14.34h (3.58%)
 - XML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="20" height="20"> : 9.80h (2.45%)
 
 <!-- END_WAKATIME_BLOCK -->
