@@ -34,11 +34,11 @@ Webstorm: 0.14h (0.03%%)
 
 ## My TOP **5** Languages This Week 
 
-- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 3.17h (63.11%)
-- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.81h (16.12%)
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> : 0.38h (7.59%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.23h (4.57%)
-- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.22h (4.31%)
+- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 3.17h (64.11%)
+- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.81h (16.37%)
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> : 0.38h (7.71%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.23h (4.64%)
+- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.22h (4.38%)
 
 ## My TOP **5** Language ALL Time 
 
