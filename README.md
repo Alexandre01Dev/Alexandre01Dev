@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 #### I'm currently working on boisrichard <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 15:39
-- 🇺🇸 (UTC-4) - 09:39
-- 🇨🇳 (UTC+8) - 21:39
+- 🇫🇷 (UTC+2) - 15:41
+- 🇺🇸 (UTC-4) - 09:41
+- 🇨🇳 (UTC+8) - 21:41
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (68.44%%)
-Vscode: 51.59h (12.87%%)
+Intellij idea: 274.31h (68.43%%)
+Vscode: 51.61h (12.88%%)
 Neovim: 37.91h (9.46%%)
 Intellijidea: 22.00h (5.49%%)
 Androidstudio: 10.27h (2.56%%)
@@ -39,11 +39,11 @@ Webstorm: 0.14h (0.03%%)
 
 ## My TOP **5** Languages This Week 
 
-- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 1.38h (56.38%)
-- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.41h (16.75%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.28h (11.49%)
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> : 0.22h (8.83%)
-- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.08h (3.23%)
+- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 1.38h (55.83%)
+- JSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="JSX" width="20" height="20"> : 0.43h (17.56%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.28h (11.38%)
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> : 0.22h (8.74%)
+- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.08h (3.20%)
 
 ## My TOP **5** Language ALL Time 
 
