@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-## What I'm doing now ? 
+> I'm sleeping 🛌 or I'm busy with other things than coding. 
 
-#### I'm currently working on boisrichard <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20">: <br/>
-Last update at:
-- 🇫🇷 (UTC+2) - 15:14
-- 🇺🇸 (UTC-4) - 09:14
-- 🇨🇳 (UTC+8) - 21:14
 
 ## Editors
 
