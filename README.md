@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-> I'm sleeping 🛌 or I'm busy with other things than coding. 
+## What I'm doing now ? 
 
+#### I'm currently working on 2binFlutter <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20">: <br/>
+Last update at:
+- 🇫🇷 (UTC+2) - 22:12
+- 🇺🇸 (UTC-4) - 16:12
+- 🇨🇳 (UTC+8) - 04:12
 
 ## Editors
 
@@ -27,16 +32,18 @@ Intellij idea: 274.31h (68.38%%)
 Vscode: 51.91h (12.94%%)
 Neovim: 37.91h (9.45%%)
 Intellijidea: 22.01h (5.49%%)
-Androidstudio: 10.27h (2.56%%)
+Androidstudio: 10.28h (2.56%%)
 Rustrover: 4.62h (1.15%%)
 Webstorm: 0.14h (0.03%%)
 ```
 
 ## My TOP **5** Languages This Week 
 
-- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.09h (95.88%)
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.00h (2.35%)
-- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 0.00h (1.76%)
+- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.09h (91.32%)
+- Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> : 0.00h (4.48%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.00h (2.24%)
+- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 0.00h (1.68%)
+- PLAIN_TEXT <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="PLAIN_TEXT" width="20" height="20"> : 0.00h (0.28%)
 
 ## My TOP **5** Language ALL Time 
 
