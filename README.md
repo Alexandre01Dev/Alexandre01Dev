@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 <!-- START_WAKATIME_BLOCK -->
 # Wakatime Statistics
 
-## What I'm doing now ? 
+> I'm sleeping 🛌 or I'm busy with other things than coding. 
 
-#### I'm currently working on OpenGL_test <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="C++" width="20" height="20">: <br/>
-Last update at:
-- 🇫🇷 (UTC+2) - 23:28
-- 🇺🇸 (UTC-4) - 17:28
-- 🇨🇳 (UTC+8) - 05:28
 
 ## Editors
 
