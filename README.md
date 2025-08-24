@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 
 #### I'm currently working on OpenGL_test <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="C++" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 23:26
-- 🇺🇸 (UTC-4) - 17:26
-- 🇨🇳 (UTC+8) - 05:26
+- 🇫🇷 (UTC+2) - 23:28
+- 🇺🇸 (UTC-4) - 17:28
+- 🇨🇳 (UTC+8) - 05:28
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (68.24%%)
-Vscode: 52.60h (13.09%%)
-Neovim: 37.98h (9.45%%)
+Intellij idea: 274.31h (68.23%%)
+Vscode: 52.60h (13.08%%)
+Neovim: 38.01h (9.46%%)
 Intellijidea: 22.06h (5.49%%)
 Androidstudio: 10.28h (2.56%%)
 Rustrover: 4.62h (1.15%%)
@@ -39,11 +39,11 @@ Webstorm: 0.14h (0.03%%)
 
 ## My TOP **5** Languages This Week 
 
-- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 0.42h (50.89%)
-- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.20h (24.11%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.07h (8.99%)
-- C++ <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="C++" width="20" height="20"> : 0.07h (8.99%)
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.05h (6.45%)
+- Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 0.42h (48.91%)
+- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.20h (23.17%)
+- C++ <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="C++" width="20" height="20"> : 0.11h (12.53%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.07h (8.64%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.05h (6.20%)
 
 ## My TOP **5** Language ALL Time 
 
