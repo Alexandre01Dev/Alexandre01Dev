@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 #### I'm currently working on DreamNetworkNeo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 14:51
-- 🇺🇸 (UTC-4) - 08:51
-- 🇨🇳 (UTC+8) - 20:51
+- 🇫🇷 (UTC+2) - 14:58
+- 🇺🇸 (UTC-4) - 08:58
+- 🇨🇳 (UTC+8) - 20:58
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (67.69%%)
+Intellij idea: 274.31h (67.67%%)
 Vscode: 53.90h (13.30%%)
 Neovim: 38.14h (9.41%%)
-Intellijidea: 23.85h (5.88%%)
+Intellijidea: 23.97h (5.91%%)
 Androidstudio: 10.28h (2.54%%)
 Rustrover: 4.62h (1.14%%)
 Webstorm: 0.14h (0.03%%)
@@ -39,15 +39,15 @@ Webstorm: 0.14h (0.03%%)
 
 ## My TOP **5** Languages This Week 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.10h (81.88%)
-- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.09h (6.34%)
-- C++ <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="C++" width="20" height="20"> : 0.06h (4.19%)
-- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.05h (3.82%)
-- TOML <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TOML" width="20" height="20"> : 0.03h (2.40%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 1.23h (83.43%)
+- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.09h (5.80%)
+- C++ <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="C++" width="20" height="20"> : 0.06h (3.83%)
+- YAML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="20" height="20"> : 0.05h (3.49%)
+- TOML <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TOML" width="20" height="20"> : 0.03h (2.19%)
 
 ## My TOP **5** Language ALL Time 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 287.09h (70.86%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 287.22h (70.87%)
 - C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 23.63h (5.83%)
 - Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 16.73h (4.13%)
 - TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 14.34h (3.54%)
