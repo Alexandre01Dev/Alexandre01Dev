@@ -19,31 +19,33 @@ Here are some ideas to get you started:
 
 ## What I'm doing now ? 
 
-#### I'm currently working on DreamNetworkNeo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="JAVA" width="20" height="20">: <br/>
+#### I'm currently working on  <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="" width="20" height="20">: <br/>
 Last update at:
-- 🇫🇷 (UTC+2) - 16:17
-- 🇺🇸 (UTC-4) - 10:17
-- 🇨🇳 (UTC+8) - 22:17
+- 🇫🇷 (UTC+2) - 16:25
+- 🇺🇸 (UTC-4) - 10:25
+- 🇨🇳 (UTC+8) - 22:25
 
 ## Editors
 
 ```text
-Intellij idea: 274.31h (67.67%%)
-Vscode: 53.90h (13.30%%)
+Intellij idea: 274.31h (67.65%%)
+Vscode: 53.90h (13.29%%)
 Neovim: 38.14h (9.41%%)
-Intellijidea: 23.98h (5.92%%)
-Androidstudio: 10.28h (2.54%%)
+Intellijidea: 24.11h (5.95%%)
+Androidstudio: 10.28h (2.53%%)
 Rustrover: 4.62h (1.14%%)
 Webstorm: 0.14h (0.03%%)
 ```
 
 ## My TOP **5** Languages This Week 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.01h (100.00%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 0.07h (51.74%)
+- Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"> : 0.05h (37.42%)
+- textmate <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="textmate" width="20" height="20"> : 0.01h (10.84%)
 
 ## My TOP **5** Language ALL Time 
 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 287.22h (70.87%)
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="20" height="20"> : 287.29h (70.86%)
 - C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="20" height="20"> : 23.63h (5.83%)
 - Astro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="20" height="20"> : 16.73h (4.13%)
 - TSX <img src="https://static-00.iconduck.com/assets.00/file-unknown-icon-1775x2048-pyaeuwoe.png" alt="TSX" width="20" height="20"> : 14.34h (3.54%)
